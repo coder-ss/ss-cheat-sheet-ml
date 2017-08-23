@@ -4,5 +4,5 @@
 
 ## 性能度量
 
-- 均方误差（MSE）与精度（Accuracy）
-- 查准率（Precision）、查全率（Recall）、F1
+- [均方误差（MSE）与精度（Accuracy）](https://github.com/coder-ss/ss-cheat-sheet-ml/blob/master/measurement/MSE-accuracy.ipynb)
+- [查准率（Precision）、查全率（Recall）、F1](https://github.com/coder-ss/ss-cheat-sheet-ml/blob/master/measurement/precision-recall-f1.ipynb)
