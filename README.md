@@ -7,5 +7,6 @@
 ## 性能度量
 
 - [均方误差（MSE）与精度（Accuracy）](https://github.com/coder-ss/ss-cheat-sheet-ml/blob/master/measurement/MSE-accuracy.ipynb)
+- [泛化误差（generalization error）、欠拟合（underfitting）与过拟合（overfitting）](https://github.com/coder-ss/ss-cheat-sheet-ml/blob/master/measurement/overfitting-underfitting.ipynb)
 - [查准率（Precision）、查全率（Recall）、F1](https://github.com/coder-ss/ss-cheat-sheet-ml/blob/master/measurement/precision-recall-f1.ipynb)
 - [ROC曲线、AUC](https://github.com/coder-ss/ss-cheat-sheet-ml/blob/master/measurement/ROC-AUC.ipynb)
