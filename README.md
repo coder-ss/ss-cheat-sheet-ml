@@ -6,8 +6,35 @@
 
 ## 性能度量
 
-- [均方误差（MSE）与精度（Accuracy）](https://github.com/coder-ss/ss-cheat-sheet-ml/blob/master/measurement/MSE-accuracy.ipynb)
-- [泛化误差（generalization error）、欠拟合（underfitting）与过拟合（overfitting）](https://github.com/coder-ss/ss-cheat-sheet-ml/blob/master/measurement/overfitting-underfitting.ipynb)
-- [查准率（Precision）、查全率（Recall）、F1](https://github.com/coder-ss/ss-cheat-sheet-ml/blob/master/measurement/precision-recall-f1.ipynb)
-- [ROC曲线、AUC](https://github.com/coder-ss/ss-cheat-sheet-ml/blob/master/measurement/ROC-AUC.ipynb)
+- [均方误差（MSE）与精度（Accuracy）](./measurement/MSE-accuracy.ipynb)
+- [泛化误差（generalization error）、欠拟合（underfitting）与过拟合（overfitting）](./measurement/overfitting-underfitting.ipynb)
+- [查准率（Precision）、查全率（Recall）、F1](./measurement/precision-recall-f1.ipynb)
+- [ROC曲线、AUC](./measurement/ROC-AUC.ipynb)
 - [偏差（bias）、方差（variance）](./measurement/bias-variance.ipynb)
+
+
+## 监督学习
+
+### 分类任务
+
+- 逻辑回归
+- 决策树
+- SVM
+- 神经网络
+- 贝叶斯
+
+### 回归任务
+
+- 线性回归
+
+
+## 非监督学习
+
+- k均值
+
+
+## 凸优化
+
+- 梯度下降
+- 牛顿法
+- 拉格朗日乘数法
