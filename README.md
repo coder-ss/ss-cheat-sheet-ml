@@ -13,24 +13,25 @@
 - [偏差（bias）、方差（variance）](./measurement/bias-variance.ipynb)
 
 
-## 监督学习
+## 学习算法
 
-### 分类任务
+### 决策树
 
-- 逻辑回归
-- 决策树
-- SVM
-- 神经网络
-- 贝叶斯
+- [决策树概念与基本流程](./decision-tree/summary.ipynb)
+- [ID3、C4.5、CART决策树算法](./decision-tree/ID3-C45-CART.ipynb)
+- [剪枝](./decision-tree/pruning.ipynb)
+- 连续值、缺失值处理
+- 处理回归问题
 
-### 回归任务
+### 线性模型
 
-- 线性回归
+### SVM
 
+### 神经网络
 
-## 非监督学习
+### 朴素贝叶斯
 
-- k均值
+### k均值
 
 
 ## 凸优化
