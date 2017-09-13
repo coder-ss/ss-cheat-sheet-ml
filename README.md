@@ -4,6 +4,11 @@
 
 但是，有时候会发现Github解析的Jupyter Notebook的公式和我本地看到的有些不一样，我发现了的地方都会修改好，保证两个地方的显示都是OK的。
 
+## 数学基础
+
+- [距离、相似度](./basic-mathematics/distance.ipynb)
+
+
 ## 性能度量
 
 - [均方误差（MSE）与精度（Accuracy）](./measurement/MSE-accuracy.ipynb)
@@ -11,6 +16,12 @@
 - [查准率（Precision）、查全率（Recall）、F1](./measurement/precision-recall-f1.ipynb)
 - [ROC曲线、AUC](./measurement/ROC-AUC.ipynb)
 - [偏差（bias）、方差（variance）](./measurement/bias-variance.ipynb)
+
+
+## 特征处理
+
+- 归一化
+- PCA
 
 
 ## 学习算法
