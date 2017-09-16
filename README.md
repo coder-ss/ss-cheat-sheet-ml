@@ -20,7 +20,7 @@
 
 ## 特征处理
 
-- 归一化
+- [归一化](./feature/normalization.ipynb)
 - PCA
 
 
