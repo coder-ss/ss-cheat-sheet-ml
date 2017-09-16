@@ -46,8 +46,8 @@
 
 ### k近邻
 
-- [概念](./kNN/verify-code.ipynb)
-- [基于kNN的验证码识别](./kNN/kNN.ipynb)
+- [概念](./kNN/kNN.ipynb)
+- [基于kNN的验证码识别](./kNN/verify-code.ipynb)
 
 
 ## 凸优化
