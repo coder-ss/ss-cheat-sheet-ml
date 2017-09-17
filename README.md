@@ -42,11 +42,11 @@
 
 ### 朴素贝叶斯
 
-### k均值
+### k均值（k-means）
 
-### k近邻
+### k近邻（kNN）
 
-- [概念](./kNN/kNN.ipynb)
+- [kNN概念](./kNN/kNN.ipynb)
 - [基于kNN的验证码识别](./kNN/verify-code.ipynb)
 
 
