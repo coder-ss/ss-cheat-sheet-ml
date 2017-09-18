@@ -42,7 +42,10 @@
 
 ### 朴素贝叶斯
 
-### k均值（k-means）
+### 聚类
+
+- [k均值（k-means）](./cluster/k-means/k-means.ipynb)
+
 
 ### k近邻（kNN）
 
