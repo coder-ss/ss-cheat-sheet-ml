@@ -41,8 +41,7 @@
 
 ### 神经网络
 
-- [神经元模型](./neural-network/artificial-neuron.ipynb)
-- 感知机与多层网络
+- [神经网络概念](./neural-network/network-summary.ipynb)
 - 误差逆向传播算法
 
 
