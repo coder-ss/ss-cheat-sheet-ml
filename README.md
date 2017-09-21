@@ -42,7 +42,7 @@
 ### 神经网络
 
 - [神经网络概念](./neural-network/network-summary.ipynb)
-- 误差逆向传播算法
+- [误差逆向传播算法（BP神经网络）](./neural-network/bp.ipynb)
 
 
 ### 朴素贝叶斯
