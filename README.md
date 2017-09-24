@@ -45,7 +45,11 @@
 - [误差逆向传播算法（BP神经网络）](./neural-network/bp.ipynb)
 
 
-### 朴素贝叶斯
+### 贝叶斯分类
+
+- [贝叶斯决策论（Beyesian decison theory）](./bayes/beyesian-decison-theory.ipynb)
+- [生成式（discriminative）与判别式（generative）](./bayes/discriminative-generative.ipynb)
+
 
 ### 聚类
 
