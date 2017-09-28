@@ -8,6 +8,10 @@
 
 - [距离、相似度](./basic-mathematics/distance.ipynb)
 
+### 概率统计
+
+- 极大似然估计
+
 
 ## 性能度量
 
@@ -49,6 +53,9 @@
 
 - [贝叶斯决策论（Beyesian decison theory）](./bayes/beyesian-decison-theory.ipynb)
 - [生成式（discriminative）与判别式（generative）](./bayes/discriminative-generative.ipynb)
+- [朴素贝叶斯分类器](./bayes/naive-bayes.ipynb)
+- 半朴素贝叶斯分类器
+- 贝叶斯网
 
 
 ### 聚类
@@ -67,3 +74,4 @@
 - 梯度下降
 - 牛顿法
 - 拉格朗日乘数法
+- EM算法
