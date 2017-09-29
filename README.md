@@ -10,7 +10,7 @@
 
 ### 概率统计
 
-- 极大似然估计
+- [极大似然估计](./basic-mathematics/probability-statistics/maximum-likelihood-estimate.ipynb)
 
 
 ## 性能度量
