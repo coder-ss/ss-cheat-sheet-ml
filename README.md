@@ -41,6 +41,10 @@
 
 ### 线性模型
 
+- [线性回归](./linear-model/linear-regression.ipynb)
+- [逻辑回归](./linear-model/logistic-regression.ipynb)
+
+
 ### SVM
 
 ### 神经网络
@@ -68,10 +72,15 @@
 - [kNN概念](./kNN/kNN.ipynb)
 - [基于kNN的验证码识别](./kNN/verify-code.ipynb)
 
+## 其他事项
 
-## 凸优化
+- 正则化
+
+
+## 优化算法
 
 - 梯度下降
 - 牛顿法
-- 拉格朗日乘数法
+- [拉格朗日乘数法](./optimization/lagrange-multiplier-method.ipynb)
+- [正规方程组](./notebooks/optimization/normal-equation.ipynb)
 - EM算法
