@@ -82,5 +82,5 @@
 - 梯度下降
 - 牛顿法
 - [拉格朗日乘数法](./optimization/lagrange-multiplier-method.ipynb)
-- [正规方程组](./notebooks/optimization/normal-equation.ipynb)
+- [正规方程组](./optimization/normal-equation.ipynb)
 - EM算法
