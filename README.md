@@ -69,12 +69,17 @@
 ### 聚类
 
 - [k均值（k-means）](./cluster/k-means/k-means.ipynb)
+- [层次聚类](./cluster/hierarchical-clustering/hierarchical-clustering.ipynb)
+- [高斯混合模型](./cluster/gmm/gmm.ipynb)
 
 
 ### k近邻（kNN）
 
 - [kNN概念](./kNN/kNN.ipynb)
 - [基于kNN的验证码识别](./kNN/verify-code.ipynb)
+
+### 增强学习
+
 
 ## 其他事项
 
