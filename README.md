@@ -47,6 +47,10 @@
 
 ### SVM
 
+- [支持向量机（SVM）](./svm/svm.ipynb)
+- SMO
+
+
 ### 神经网络
 
 - [神经网络概念](./neural-network/network-summary.ipynb)
